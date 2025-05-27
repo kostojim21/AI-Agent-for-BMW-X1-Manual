@@ -1,4 +1,4 @@
-streamlit
+chromadb
 google-generativeai
 chromadb
 sentence-transformers
